@@ -13,6 +13,7 @@ button{
     margin-left:10px;
     margin: 10px;
     border-radius: 8px;
+    border: 1px solid #666;
 }
 button:hover{
     cursor: pointer;
@@ -29,6 +30,7 @@ button:hover{
 input{
     padding:10px;
     border-radius:8px;
+    border: 1px solid #666;
 }
 .box{
     max-width: 700px;
@@ -76,11 +78,14 @@ li button{
     padding:10px 8px;
     margin: 10px;
     border-radius: 8px;
+    border: 1px solid #666;
 }
 .doneBtn {
     background-color: lightgreen;
     transition: 0.3s;
+    border: 1px solid #666;
 }
 .deteteBtn {
     transition: 0.3s;
+    border: 1px solid #666;
 }
